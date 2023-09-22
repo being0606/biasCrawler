@@ -1,23 +1,35 @@
 
 def getScreen():
-   
-    from selenium import webdriver
     from time import sleep
+    import pandas as pd
+    import tqdm
+    from selenium import webdriver
 
-    # 접속 url
-    # 검색 키워드
-    KEYWORD = "웹프로그래밍"
-    URL = "https://google.com/search?q="+KEYWORD+"&tbm=isch"
 
-    # 웹 드라이버 생성
-    driver = webdriver.Chrome()
+    # CSV 파일 로드
+    df = pd.read_csv('../DATA/job.csv')
+    mini_df = df.head()
+    print("CSV load complete")
+    # START!
+    for _ in df['English']:
+        KEYWORD = _
+        URL = "https://google.com/search?q="+KEYWORD+"&tbm=isch"
 
-    # 링크 열기
-    driver.get(URL)
+        # 웹 드라이버 생성
+        driver = webdriver.Chrome()
 
-    # 스크린샷 찍기
-    screenshot_path = './screenshot.png'  # 원하는 경로를 지정하세요.
-    driver.save_screenshot(screenshot_path)
+        # 링크 열기
+        driver.get(URL)
+        driver.fullscreen_window()
 
-    # 페이지 종료
-    driver.quit()
+        # 스크린샷 찍기
+        screenshot_path = '../screenshot/job_' + KEYWORD + '.png'
+        driver.save_screenshot(screenshot_path)
+
+        # 페이지 종료
+        driver.quit()
+
+
+if __name__ == "__main__":
+    getScreen()
+    print("DONE!")
