@@ -10,6 +10,7 @@ def getScreen():
     df = pd.read_csv('../DATA/job.csv')
     mini_df = df.head()
     print("CSV load complete")
+    
     # START!
     for _ in df['English']:
         KEYWORD = _
