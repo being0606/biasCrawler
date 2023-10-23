@@ -23,13 +23,7 @@ After that, the initial screen (job_JOBNAME_img00.png) searched in each director
 
 <p align="center">
   <img src="DATA/screenshot/Accountant/job_Accountant_img00.png" alt="job_Accountant_img00.png" width="200">
-</p>
-
-<p align="center>
   <img src="/DATA/screenshot/Accountant/job_Accountant_img01.png" alt="job_Accountant_img01.png" width="200">
-</p>
-
-<p align="center>
   <img src="/DATA/screenshot/Accountant/job_Accountant_img02.png" alt="job_Accountant_img02.png" width="200">
 </p>
 
