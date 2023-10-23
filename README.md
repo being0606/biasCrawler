@@ -59,12 +59,12 @@ First, complete the job.csv file. This is the name of the query to be searched i
 After that, the initial screen (job_JOBNAME_img00.png) searched in each directory and the first to 20th pictures (job_JOBNAME_img00.png ~ job_JOBNAME_img20.png) are added to each directory as a png file.
 
 <p align="center">
-  <img src="DATA/screenshot/Accountant/job_Nurse_img00.png" alt="job_Nurse_img00.png">
+  <img src="/DATA/screenshot/Nurse/job_Nurse_img00.png" alt="job_Nurse_img00.png">
   
-  <img src="/DATA/screenshot/Accountant/job_Nurse_img01.png" alt="job_Nurse_img01.png" width="400">
-  <img src="/DATA/screenshot/Accountant/job_Nurse_img02.png" alt="job_Nurse_img02.png" width="400">
-  <img src="/DATA/screenshot/Accountant/job_Nurse_img03.png" alt="job_Nurse_img03.png" width="400">
-  <img src="/DATA/screenshot/Accountant/job_Nurse_img04.png" alt="job_Nurse_img04.png" width="400">
+  <img src="/DATA/screenshot/Nurse/job_Nurse_img01.png" alt="job_Nurse_img01.png" width="400">
+  <img src="/DATA/screenshot/Nurse/job_Nurse_img02.png" alt="job_Nurse_img02.png" width="400">
+  <img src="/DATA/screenshot/Nurse/job_Nurse_img03.png" alt="job_Nurse_img03.png" width="400">
+  <img src="/DATA/screenshot/Nurse/job_Nurse_img04.png" alt="job_Nurse_img04.png" width="400">
 </p>
 
 After that, the race and gender of the extracted face image for each photo are analyzed using the Deepface model.
