@@ -23,8 +23,10 @@ After that, the initial screen (job_JOBNAME_img00.png) searched in each director
 
 <p align="center">
   <img src="DATA/screenshot/Accountant/job_Accountant_img00.png" alt="job_Accountant_img00.png">
-  <img src="/DATA/screenshot/Accountant/job_Accountant_img01.png" alt="job_Accountant_img01.png" width="200">
-  <img src="/DATA/screenshot/Accountant/job_Accountant_img02.png" alt="job_Accountant_img02.png" width="200">
+  <img src="/DATA/screenshot/Accountant/job_Accountant_img01.png" alt="job_Accountant_img01.png" width="400">
+  <img src="/DATA/screenshot/Accountant/job_Accountant_img02.png" alt="job_Accountant_img02.png" width="400">
+  <img src="/DATA/screenshot/Accountant/job_Accountant_img03.png" alt="job_Accountant_img03.png" width="400">
+  <img src="/DATA/screenshot/Accountant/job_Accountant_img03.png" alt="job_Accountant_img04.png" width="400">
 </p>
 
 After that, the race and gender of the extracted face image for each photo are analyzed using the Deepface model.
