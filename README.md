@@ -67,7 +67,7 @@ After that, the initial screen (job_JOBNAME_img00.png) searched in each director
   <img src="/DATA/screenshot/Nurse/job_Nurse_img04.png" alt="job_Nurse_img04.png" width="400">
 </p>
 
-After that, the race and gender of the extracted face image for each photo are analyzed using the Deepface model.
+After that, the race and gender of the extracted face image for each photo are analyzed using the Deepface model. Make the analysis result back to the csv file.
 
 <p align="center">
   <table>
@@ -127,6 +127,4 @@ After that, the race and gender of the extracted face image for each photo are a
   </table>
 </p>
 
-
-
-Make the analysis result back to the csv file.
+Although the detector's performance is not encouraging, it did a great job of crawling, and if you learn more about the detector, you can expect performance improvement. Please look forward to the future!
