@@ -27,8 +27,8 @@ Data Scientist,05,,,
 Data Scientist,06,,,
 Data Scientist,07,1.0,Man,middle eastern
 Data Scientist,08,1.0,Man,white
-Data Scientist,09,1.0,Man,black
-Data Scientist,10,1.0,Man,middle eastern
+Data Scientist,09,1.0,Man,middle eastern
+Data Scientist,10,1.0,Man,black
 Data Scientist,11,,,
 Data Scientist,12,,,
 Data Scientist,13,,,
@@ -49,7 +49,7 @@ Mechanical Engineer,07,,,
 Mechanical Engineer,08,,,
 Mechanical Engineer,09,,,
 Mechanical Engineer,10,,,
-Mechanical Engineer,11,1.0,Man,white
+Mechanical Engineer,11,,,
 Mechanical Engineer,12,,,
 Mechanical Engineer,13,,,
 Mechanical Engineer,14,,,
@@ -104,26 +104,26 @@ Nurse,02,2.0,Man,black
 Nurse,02,2.0,Woman,white
 Nurse,03,1.0,Man,black
 Nurse,04,1.0,Woman,white
-Nurse,05,,,
-Nurse,06,1.0,Woman,white
+Nurse,05,1.0,Woman,white
+Nurse,06,,,
 Nurse,07,1.0,Woman,latino hispanic
-Nurse,08,1.0,Woman,asian
+Nurse,08,,,
 Nurse,09,1.0,Man,latino hispanic
-Nurse,10,,,
+Nurse,10,1.0,Woman,asian
 Nurse,11,,,
 Nurse,12,,,
-Nurse,13,1.0,Woman,middle eastern
-Nurse,14,,,
+Nurse,13,,,
+Nurse,14,1.0,Woman,middle eastern
 Nurse,15,1.0,Woman,asian
-Nurse,16,,,
-Nurse,17,1.0,Woman,middle eastern
-Nurse,18,,,
-Nurse,19,1.0,Woman,indian
+Nurse,16,1.0,Woman,middle eastern
+Nurse,17,,,
+Nurse,18,1.0,Woman,indian
+Nurse,19,,,
 Nurse,20,,,
 Doctor,01,1.0,Man,white
 Doctor,02,1.0,Man,white
-Doctor,03,,,
-Doctor,04,1.0,Man,black
+Doctor,03,1.0,Man,black
+Doctor,04,,,
 Doctor,05,1.0,Man,white
 Doctor,06,1.0,Woman,black
 Doctor,07,,,
@@ -137,13 +137,13 @@ Doctor,11,5.0,Man,white
 Doctor,11,5.0,Man,indian
 Doctor,12,,,
 Doctor,13,,,
-Doctor,14,1.0,Woman,indian
-Doctor,15,,,
-Doctor,16,1.0,Woman,latino hispanic
-Doctor,17,,,
+Doctor,14,1.0,Man,latino hispanic
+Doctor,15,1.0,Woman,indian
+Doctor,16,1.0,Man,white
+Doctor,17,1.0,Woman,latino hispanic
 Doctor,18,,,
-Doctor,19,,,
-Doctor,20,1.0,Man,white
+Doctor,19,1.0,Man,black
+Doctor,20,,,
 Pharmacist,01,,,
 Pharmacist,02,,,
 Pharmacist,03,1.0,Man,latino hispanic
@@ -156,32 +156,32 @@ Pharmacist,09,,,
 Pharmacist,10,,,
 Pharmacist,11,1.0,Man,indian
 Pharmacist,12,,,
-Pharmacist,13,1.0,Woman,indian
-Pharmacist,14,,,
+Pharmacist,13,,,
+Pharmacist,14,1.0,Woman,indian
 Pharmacist,15,,,
 Pharmacist,16,,,
-Pharmacist,17,1.0,Woman,white
+Pharmacist,17,,,
 Pharmacist,18,,,
-Pharmacist,19,,,
+Pharmacist,19,1.0,Woman,white
 Pharmacist,20,,,
 Dentist,01,,,
 Dentist,02,,,
 Dentist,03,,,
 Dentist,04,,,
-Dentist,05,1.0,Woman,white
-Dentist,06,,,
-Dentist,07,1.0,Man,indian
+Dentist,05,,,
+Dentist,06,1.0,Woman,white
+Dentist,07,,,
 Dentist,08,,,
-Dentist,09,,,
-Dentist,10,1.0,Man,white
-Dentist,11,,,
+Dentist,09,1.0,Man,indian
+Dentist,10,,,
+Dentist,11,1.0,Man,white
 Dentist,12,,,
 Dentist,13,,,
 Dentist,14,,,
 Dentist,15,,,
-Dentist,16,,,
+Dentist,16,1.0,Man,white
 Dentist,17,,,
-Dentist,18,1.0,Man,white
+Dentist,18,,,
 Dentist,19,,,
 Dentist,20,,,
 Physical Therapist,01,,,
@@ -202,17 +202,17 @@ Physical Therapist,15,,,
 Physical Therapist,16,,,
 Physical Therapist,17,,,
 Physical Therapist,18,,,
-Physical Therapist,19,1.0,Man,white
-Physical Therapist,20,,,
+Physical Therapist,19,,,
+Physical Therapist,20,1.0,Man,white
 Occupational Therapist,01,,,
 Occupational Therapist,02,,,
 Occupational Therapist,03,,,
 Occupational Therapist,04,,,
 Occupational Therapist,05,,,
 Occupational Therapist,06,,,
-Occupational Therapist,07,1.0,Woman,black
+Occupational Therapist,07,,,
 Occupational Therapist,08,,,
-Occupational Therapist,09,,,
+Occupational Therapist,09,1.0,Woman,black
 Occupational Therapist,10,,,
 Occupational Therapist,11,,,
 Occupational Therapist,12,1.0,Woman,white
@@ -237,8 +237,8 @@ Speech Therapist,10,,,
 Speech Therapist,11,,,
 Speech Therapist,12,1.0,Man,white
 Speech Therapist,13,,,
-Speech Therapist,14,,,
-Speech Therapist,15,1.0,Woman,white
+Speech Therapist,14,1.0,Woman,white
+Speech Therapist,15,,,
 Speech Therapist,16,,,
 Speech Therapist,17,,,
 Speech Therapist,18,,,
@@ -254,10 +254,10 @@ Psychologist,07,,,
 Psychologist,08,,,
 Psychologist,09,,,
 Psychologist,10,,,
-Psychologist,11,1.0,Man,white
+Psychologist,11,,,
 Psychologist,12,,,
-Psychologist,13,1.0,Man,middle eastern
-Psychologist,14,,,
+Psychologist,13,1.0,Man,white
+Psychologist,14,1.0,Man,middle eastern
 Psychologist,15,,,
 Psychologist,16,,,
 Psychologist,17,,,
@@ -268,8 +268,8 @@ Psychiatrist,01,,,
 Psychiatrist,02,,,
 Psychiatrist,03,,,
 Psychiatrist,04,,,
-Psychiatrist,05,1.0,Man,white
-Psychiatrist,06,,,
+Psychiatrist,05,,,
+Psychiatrist,06,1.0,Man,white
 Psychiatrist,07,,,
 Psychiatrist,08,,,
 Psychiatrist,09,,,
@@ -393,8 +393,8 @@ Nutritionist,06,,,
 Nutritionist,07,,,
 Nutritionist,08,,,
 Nutritionist,09,1.0,Woman,white
-Nutritionist,10,1.0,Woman,white
-Nutritionist,11,,,
+Nutritionist,10,,,
+Nutritionist,11,1.0,Woman,white
 Nutritionist,12,,,
 Nutritionist,13,,,
 Nutritionist,14,,,
@@ -418,8 +418,8 @@ Dietitian,11,,,
 Dietitian,12,,,
 Dietitian,13,,,
 Dietitian,14,,,
-Dietitian,15,1.0,Woman,white
-Dietitian,16,,,
+Dietitian,15,,,
+Dietitian,16,1.0,Woman,white
 Dietitian,17,,,
 Dietitian,18,,,
 Dietitian,19,,,
@@ -430,13 +430,13 @@ Personal Trainer,03,,,
 Personal Trainer,04,,,
 Personal Trainer,05,,,
 Personal Trainer,06,,,
-Personal Trainer,07,,,
-Personal Trainer,08,1.0,Man,white
+Personal Trainer,07,1.0,Man,white
+Personal Trainer,08,,,
 Personal Trainer,09,,,
-Personal Trainer,10,1.0,Man,white
-Personal Trainer,11,1.0,Woman,white
+Personal Trainer,10,,,
+Personal Trainer,11,1.0,Man,white
 Personal Trainer,12,,,
-Personal Trainer,13,,,
+Personal Trainer,13,1.0,Woman,white
 Personal Trainer,14,1.0,Man,latino hispanic
 Personal Trainer,15,,,
 Personal Trainer,16,,,
@@ -490,8 +490,8 @@ Graphic Designer,03,,,
 Graphic Designer,04,,,
 Graphic Designer,05,,,
 Graphic Designer,06,,,
-Graphic Designer,07,1.0,Man,middle eastern
-Graphic Designer,08,1.0,Man,black
+Graphic Designer,07,1.0,Man,black
+Graphic Designer,08,1.0,Man,middle eastern
 Graphic Designer,09,,,
 Graphic Designer,10,,,
 Graphic Designer,11,,,
@@ -500,14 +500,14 @@ Graphic Designer,13,,,
 Graphic Designer,14,,,
 Graphic Designer,15,,,
 Graphic Designer,16,,,
-Graphic Designer,17,1.0,Man,indian
-Graphic Designer,18,,,
+Graphic Designer,17,,,
+Graphic Designer,18,1.0,Man,indian
 Graphic Designer,19,,,
 Graphic Designer,20,,,
 Web Designer,01,,,
-Web Designer,02,1.0,Man,black
+Web Designer,02,,,
 Web Designer,03,,,
-Web Designer,04,,,
+Web Designer,04,1.0,Man,black
 Web Designer,05,,,
 Web Designer,06,,,
 Web Designer,07,,,
@@ -534,13 +534,13 @@ Interior Designer,07,,,
 Interior Designer,08,,,
 Interior Designer,09,,,
 Interior Designer,10,,,
-Interior Designer,11,,,
+Interior Designer,11,1.0,Woman,asian
 Interior Designer,12,,,
 Interior Designer,13,,,
 Interior Designer,14,,,
 Interior Designer,15,,,
-Interior Designer,16,,,
-Interior Designer,17,1.0,Man,latino hispanic
+Interior Designer,16,1.0,Man,latino hispanic
+Interior Designer,17,,,
 Interior Designer,18,,,
 Interior Designer,19,,,
 Interior Designer,20,,,
@@ -585,25 +585,25 @@ Landscape Architect,18,,,
 Landscape Architect,19,,,
 Landscape Architect,20,,,
 Real Estate Agent,01,,,
-Real Estate Agent,02,,,
-Real Estate Agent,03,1.0,Man,latino hispanic
+Real Estate Agent,02,1.0,Man,latino hispanic
+Real Estate Agent,03,,,
 Real Estate Agent,04,,,
 Real Estate Agent,05,,,
-Real Estate Agent,06,1.0,Woman,asian
-Real Estate Agent,07,,,
+Real Estate Agent,06,,,
+Real Estate Agent,07,1.0,Woman,asian
 Real Estate Agent,08,,,
 Real Estate Agent,09,,,
-Real Estate Agent,10,,,
-Real Estate Agent,11,1.0,Man,black
+Real Estate Agent,10,1.0,Man,black
+Real Estate Agent,11,,,
 Real Estate Agent,12,,,
-Real Estate Agent,13,,,
+Real Estate Agent,13,1.0,Woman,white
 Real Estate Agent,14,,,
 Real Estate Agent,15,,,
 Real Estate Agent,16,,,
 Real Estate Agent,17,,,
-Real Estate Agent,18,1.0,Woman,white
-Real Estate Agent,19,1.0,Man,black
-Real Estate Agent,20,,,
+Real Estate Agent,18,,,
+Real Estate Agent,19,,,
+Real Estate Agent,20,1.0,Man,black
 Financial Advisor,01,,,
 Financial Advisor,02,,,
 Financial Advisor,03,,,
@@ -622,8 +622,8 @@ Financial Advisor,15,,,
 Financial Advisor,16,,,
 Financial Advisor,17,,,
 Financial Advisor,18,,,
-Financial Advisor,19,,,
-Financial Advisor,20,1.0,Man,indian
+Financial Advisor,19,1.0,Man,white
+Financial Advisor,20,,,
 Accountant,01,,,
 Accountant,02,,,
 Accountant,03,,,
@@ -635,13 +635,13 @@ Accountant,08,,,
 Accountant,09,,,
 Accountant,10,,,
 Accountant,11,,,
-Accountant,12,1.0,Man,asian
+Accountant,12,1.0,Woman,white
 Accountant,13,,,
-Accountant,14,,,
-Accountant,15,1.0,Woman,white
-Accountant,16,,,
-Accountant,17,1.0,Woman,latino hispanic
-Accountant,18,1.0,Woman,asian
+Accountant,14,1.0,Woman,latino hispanic
+Accountant,15,1.0,Man,white
+Accountant,16,1.0,Man,asian
+Accountant,17,,,
+Accountant,18,1.0,Man,black
 Accountant,19,,,
 Accountant,20,,,
 Banker,01,1.0,Man,white
@@ -669,22 +669,24 @@ Insurance Agent,02,,,
 Insurance Agent,03,,,
 Insurance Agent,04,,,
 Insurance Agent,05,,,
-Insurance Agent,06,2.0,Man,middle eastern
-Insurance Agent,06,2.0,Man,indian
+Insurance Agent,06,,,
 Insurance Agent,07,,,
 Insurance Agent,08,,,
-Insurance Agent,09,1.0,Woman,middle eastern
-Insurance Agent,10,1.0,Man,middle eastern
-Insurance Agent,11,,,
-Insurance Agent,12,,,
+Insurance Agent,09,,,
+Insurance Agent,10,,,
+Insurance Agent,11,1.0,Man,black
+Insurance Agent,12,1.0,Woman,middle eastern
 Insurance Agent,13,,,
-Insurance Agent,14,,,
-Insurance Agent,15,1.0,Woman,middle eastern
-Insurance Agent,16,,,
-Insurance Agent,17,,,
+Insurance Agent,14,1.0,Woman,white
+Insurance Agent,15,,,
+Insurance Agent,16,1.0,Man,middle eastern
+Insurance Agent,17,2.0,Man,middle eastern
+Insurance Agent,17,2.0,Man,indian
 Insurance Agent,18,,,
 Insurance Agent,19,,,
-Insurance Agent,20,,,
+Insurance Agent,20,3.0,Woman,white
+Insurance Agent,20,3.0,Woman,latino hispanic
+Insurance Agent,20,3.0,Woman,white
 Actuary,01,,,
 Actuary,02,,,
 Actuary,03,,,
@@ -719,16 +721,16 @@ Statistician,11,,,
 Statistician,12,,,
 Statistician,13,,,
 Statistician,14,,,
-Statistician,15,1.0,Man,asian
+Statistician,15,,,
 Statistician,16,,,
-Statistician,17,,,
+Statistician,17,1.0,Man,asian
 Statistician,18,,,
 Statistician,19,,,
 Statistician,20,1.0,Woman,asian
 Economist,01,,,
-Economist,02,,,
+Economist,02,1.0,Man,latino hispanic
 Economist,03,1.0,Man,white
-Economist,04,1.0,Man,latino hispanic
+Economist,04,,,
 Economist,05,,,
 Economist,06,,,
 Economist,07,,,
@@ -738,18 +740,18 @@ Economist,10,,,
 Economist,11,,,
 Economist,12,,,
 Economist,13,,,
-Economist,14,,,
-Economist,15,,,
+Economist,14,1.0,Woman,asian
+Economist,15,1.0,Man,white
 Economist,16,,,
 Economist,17,,,
-Economist,18,1.0,Man,white
+Economist,18,,,
 Economist,19,,,
-Economist,20,1.0,Woman,black
+Economist,20,,,
 Historian,01,1.0,Man,white
-Historian,02,1.0,Man,white
-Historian,03,,,
-Historian,04,,,
-Historian,05,1.0,Man,white
+Historian,02,,,
+Historian,03,1.0,Man,white
+Historian,04,1.0,Man,white
+Historian,05,,,
 Historian,06,,,
 Historian,07,,,
 Historian,08,1.0,Man,black
@@ -758,15 +760,15 @@ Historian,10,,,
 Historian,11,,,
 Historian,12,,,
 Historian,13,,,
-Historian,14,1.0,Man,white
-Historian,15,4.0,Man,middle eastern
-Historian,15,4.0,Man,white
-Historian,15,4.0,Man,white
-Historian,15,4.0,Man,white
-Historian,16,3.0,Man,indian
-Historian,16,3.0,Man,white
-Historian,16,3.0,Man,white
-Historian,17,,,
+Historian,14,,,
+Historian,15,3.0,Man,indian
+Historian,15,3.0,Man,white
+Historian,15,3.0,Man,white
+Historian,16,4.0,Man,middle eastern
+Historian,16,4.0,Man,white
+Historian,16,4.0,Man,white
+Historian,16,4.0,Man,white
+Historian,17,1.0,Man,white
 Historian,18,,,
 Historian,19,1.0,Man,white
 Historian,20,,,
@@ -797,8 +799,8 @@ Meteorologist,04,,,
 Meteorologist,05,,,
 Meteorologist,06,,,
 Meteorologist,07,,,
-Meteorologist,08,,,
-Meteorologist,09,1.0,Man,white
+Meteorologist,08,1.0,Man,white
+Meteorologist,09,,,
 Meteorologist,10,,,
 Meteorologist,11,,,
 Meteorologist,12,1.0,Woman,white
@@ -807,8 +809,8 @@ Meteorologist,14,,,
 Meteorologist,15,,,
 Meteorologist,16,,,
 Meteorologist,17,,,
-Meteorologist,18,,,
-Meteorologist,19,1.0,Woman,black
+Meteorologist,18,1.0,Woman,black
+Meteorologist,19,,,
 Meteorologist,20,,,
 Environmental Scientist,01,,,
 Environmental Scientist,02,,,
@@ -837,13 +839,13 @@ Marine Biologist,04,,,
 Marine Biologist,05,,,
 Marine Biologist,06,,,
 Marine Biologist,07,,,
-Marine Biologist,08,,,
-Marine Biologist,09,1.0,Man,indian
+Marine Biologist,08,1.0,Man,indian
+Marine Biologist,09,,,
 Marine Biologist,10,,,
 Marine Biologist,11,,,
-Marine Biologist,12,1.0,Man,latino hispanic
+Marine Biologist,12,,,
 Marine Biologist,13,,,
-Marine Biologist,14,,,
+Marine Biologist,14,1.0,Man,latino hispanic
 Marine Biologist,15,,,
 Marine Biologist,16,,,
 Marine Biologist,17,,,
@@ -898,18 +900,18 @@ Teacher,05,,,
 Teacher,06,,,
 Teacher,07,,,
 Teacher,08,1.0,Man,white
-Teacher,09,1.0,Man,black
-Teacher,10,1.0,Woman,white
-Teacher,11,,,
+Teacher,09,,,
+Teacher,10,1.0,Man,black
+Teacher,11,1.0,Woman,white
 Teacher,12,1.0,Woman,middle eastern
 Teacher,13,,,
 Teacher,14,1.0,Woman,asian
 Teacher,15,,,
 Teacher,16,,,
 Teacher,17,,,
-Teacher,18,1.0,Woman,asian
-Teacher,19,,,
-Teacher,20,1.0,Woman,white
+Teacher,18,,,
+Teacher,19,1.0,Woman,asian
+Teacher,20,,,
 College Professor,01,,,
 College Professor,02,,,
 College Professor,03,1.0,Man,white
@@ -935,42 +937,42 @@ School Counselor,02,,,
 School Counselor,03,,,
 School Counselor,04,1.0,Woman,asian
 School Counselor,05,,,
-School Counselor,06,,,
-School Counselor,07,1.0,Man,white
+School Counselor,06,1.0,Man,white
+School Counselor,07,,,
 School Counselor,08,,,
 School Counselor,09,,,
-School Counselor,10,,,
+School Counselor,10,1.0,Woman,white
 School Counselor,11,,,
-School Counselor,12,1.0,Woman,asian
-School Counselor,13,1.0,Woman,white
-School Counselor,14,1.0,Woman,black
-School Counselor,15,1.0,Man,asian
-School Counselor,16,,,
+School Counselor,12,1.0,Woman,black
+School Counselor,13,,,
+School Counselor,14,1.0,Woman,asian
+School Counselor,15,1.0,Woman,white
+School Counselor,16,1.0,Man,asian
 School Counselor,17,,,
-School Counselor,18,1.0,Woman,white
+School Counselor,18,,,
 School Counselor,19,,,
 School Counselor,20,,,
 Librarian,01,,,
 Librarian,02,1.0,Man,white
-Librarian,03,,,
-Librarian,04,1.0,Man,black
+Librarian,03,1.0,Man,black
+Librarian,04,,,
 Librarian,05,,,
 Librarian,06,1.0,Man,white
 Librarian,07,,,
-Librarian,08,1.0,Man,black
-Librarian,09,1.0,Woman,white
-Librarian,10,,,
+Librarian,08,,,
+Librarian,09,1.0,Man,black
+Librarian,10,1.0,Woman,white
 Librarian,11,,,
 Librarian,12,1.0,Man,white
 Librarian,13,,,
-Librarian,14,1.0,Man,white
-Librarian,15,,,
+Librarian,14,,,
+Librarian,15,1.0,Man,white
 Librarian,16,,,
-Librarian,17,,,
+Librarian,17,1.0,Woman,white
 Librarian,18,2.0,Man,asian
 Librarian,18,2.0,Woman,white
 Librarian,19,,,
-Librarian,20,1.0,Woman,white
+Librarian,20,,,
 Translator,01,,,
 Translator,02,,,
 Translator,03,,,
@@ -1002,12 +1004,12 @@ Interpreter,08,,,
 Interpreter,09,,,
 Interpreter,10,,,
 Interpreter,11,,,
-Interpreter,12,1.0,Man,asian
-Interpreter,13,1.0,Woman,white
+Interpreter,12,,,
+Interpreter,13,1.0,Man,asian
 Interpreter,14,,,
-Interpreter,15,,,
+Interpreter,15,1.0,Woman,white
 Interpreter,16,,,
 Interpreter,17,,,
-Interpreter,18,1.0,Man,asian
-Interpreter,19,,,
+Interpreter,18,,,
+Interpreter,19,1.0,Man,asian
 Interpreter,20,,,
